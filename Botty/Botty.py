@@ -24,7 +24,7 @@ import yt_dlp
 
 
 
-TOKEN = "ODAzMDA5Mjc5NzQwMDg0MjQ0.G5ILyY.xCpDmTensh3sogOyTur3r0w5W1iUfIAiSp4xVY"
+TOKEN = {PRIVATE TOKEN}
 # Creating log file
 
 
